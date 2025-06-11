@@ -1,0 +1,11 @@
+[90m= [39m[34;4mApp\Models\Wallet[39;24m {#6097
+    [34mid[39m: [35m3[39m,
+    [34maddress[39m: "[32m324ssfdsdsdsfsssssssssss6[39m",
+    [34mtype[39m: "[32mcentral[39m",
+    [34mlabel[39m: [36mnull[39m,
+    [34mlast_known_balance[39m: "[32m0.00000000[39m",
+    [34mcreated_at[39m: "[32m2025-06-08 17:56:45[39m",
+    [34mupdated_at[39m: "[32m2025-06-08 18:51:57[39m",
+    [34mbalance[39m: "[32m2048000.00000000[39m",
+  }
+

@@ -1,0 +1,11 @@
+*.sqlite*
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.backup
+Homestead.json
+Homestead.yaml
+.idea
+*.log

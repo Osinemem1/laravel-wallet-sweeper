@@ -21,7 +21,9 @@ This is a Laravel-based backend system for managing multiple wallets, sweeping t
 🛠 This project is still in development. Core backend logic is in progress.
 
 ## 📸 Screenshots
-(You can add screenshots later here)
+/public/screenshots/drainer-image.png
+/public/screenshots/finishes ui.png
+
 
 ## 👨‍💻 Author
 Maduka Nwoti Harrison Chidubem  
